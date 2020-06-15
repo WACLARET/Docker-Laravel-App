@@ -25,8 +25,7 @@ Containers created and their ports (if used) are as follows:
 <li>php - :9000</li></li>
 <li>npm</li>
 <li>composer</li>
-<li>artisan</li>
-
+<li>artisan</li><br>
 Persistent MySQL Storage
 
 By default, whenever you bring down the docker-compose network, your MySQL data will be removed after the containers are destroyed.
